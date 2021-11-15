@@ -26,12 +26,8 @@
 <br />
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ajparker17)]
 
-  <img align="left" alt="ajparker17's GitHub Stats" src="https://github-readme-stats.ajparker17.vercel.app/api?username=ajparker17&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/Ajith_xd17
 [linkedin]: https://linkedin.com/in/aj-studios-520882212
