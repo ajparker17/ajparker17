@@ -17,7 +17,6 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="UE4" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Frememberme.fandom.com%2Fwiki%2FUnreal_Engine_4&psig=AOvVaw0TmZ87Il7BabpWYSjSvR_S&ust=1637082353891000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDW-JPtmvQCFQAAAAAdAAAAABAI" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="C++" width="26px" src="https://camo.githubusercontent.com/f7f24086498ff611c5d0346259cc1cd6bbb757fdd3da2b33debc8724b8d6f558/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31382f49534f5f432532422532425f4c6f676f2e737667" />]
 
