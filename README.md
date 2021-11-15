@@ -26,7 +26,12 @@
 <br />
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ajparker17)]
+details>
+  <summary>:zap: My GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ajparker17&show_icons=true&hide_border=true" />
+
+</details>
 
 
 [twitter]: https://twitter.com/Ajith_xd17
