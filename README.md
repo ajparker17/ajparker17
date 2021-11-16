@@ -1,11 +1,11 @@
-### Hi there, I'm Ajith 
+### Hi there, I'm Ajith.
 
 ## I'm an engineering graduate, Game Developer!!
 
 - 🌱 I’m currently learning unreal engine.
 - 👯 I’m looking to collaborate with other game dev community.
 - 🥅 2022 Goals: Push my game dev career.
-- ⚡ Fun fact: Iam a hardcore gamer
+- ⚡ Fun fact: Iam a hardcore gamer.
 
 ### Connect with me:
 
